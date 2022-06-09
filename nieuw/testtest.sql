@@ -1,2 +1,2 @@
-SELECT * nog eens nieuw
-FROM testnieuwst
+SELECT * HOE DOE IK DIT IN 1 KEER?
+FROM huh
