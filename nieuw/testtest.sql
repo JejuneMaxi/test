@@ -1,2 +1,2 @@
-SELECT nieuwe test
-FROM testest2
+SELECT * nog eens nieuw
+FROM testnieuwst
