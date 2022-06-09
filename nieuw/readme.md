@@ -1,1 +1,1 @@
-Dit is een aangepast stukje
+Dit is een aangepast stukje / staat comment er nog?
