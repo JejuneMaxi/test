@@ -1,2 +1,2 @@
-SELECT *
-FROM testest
+SELECT nieuwe test
+FROM testest2
